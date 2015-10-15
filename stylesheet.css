@@ -18,14 +18,13 @@
     letter-spacing: 2px;
 } 
 .page1 {
-    height:900px;
+    height:800px;
     background-image:url(https://cdn2.cdnme.se/1020106/8-3/sommar_20_559929962a6b2298f5d1dfd8.gif);
     background-size:cover;
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-color: white;
     margin-top: -20px;
-    padding: 30px;
 }
 .logo {
     width: 450px;
