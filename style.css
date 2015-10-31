@@ -1,0 +1,41 @@
+@import "compass/css3";
+
+article {
+ -moz-column-width: 19em;
+ -webkit-column-width: 13em;
+ -moz-column-gap: 1em;
+ -webkit-column-gap: 1em; 
+  
+}
+
+section {
+ display: inline-block;
+ margin:  0.25rem;
+ width:  100%; 
+}
+.social a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Work sans',sans-serif;
+    color: black;
+}
+.social a:hover {
+    background-color:yellow;
+}
+.about h2,h3 {
+    text-transform: uppercase;
+    font-family: 'Work sans',sans-serif;
+    margin-bottom: -10px;
+}
+.about p {
+    text-transform: uppercase;
+    font-family: 'Work sans',sans-serif;
+    font-size: 0.8em;
+}
+.profile-img {
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-img img{
+    border-radius: 100%;
+}
