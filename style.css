@@ -1,7 +1,7 @@
 @import "compass/css3";
 
 article {
- -moz-column-width: 19em;
+ -moz-column-width: 13em;
  -webkit-column-width: 13em;
  -moz-column-gap: 1em;
  -webkit-column-gap: 1em; 
@@ -26,6 +26,7 @@ section {
     text-transform: uppercase;
     font-family: 'Work sans',sans-serif;
     margin-bottom: -10px;
+    font-weight: 300;
 }
 .about p {
     text-transform: uppercase;
