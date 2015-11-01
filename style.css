@@ -28,6 +28,9 @@ section {
     margin-bottom: -10px;
     font-weight: 300;
 }
+a {
+    text-decoration: none;
+}
 .about p {
     text-transform: uppercase;
     font-family: 'Work sans',sans-serif;
@@ -39,4 +42,20 @@ section {
 }
 .profile-img img{
     border-radius: 100%;
+}
+.pure-g img {
+    max-height: 
+}
+.pure-u-1-2 a {
+    color: black;
+    padding: 2px;
+    margin-right: 7%;
+    
+}
+.pure-u-1-2 a:hover {
+    padding: 2px;
+    background: yellow;
+}
+.next {
+    text-align: right;
 }
