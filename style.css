@@ -1,3 +1,7 @@
+body {
+    font-family: 'Work sans',sans-serif;
+}
+
 @import "compass/css3";
 
 article {
@@ -44,18 +48,25 @@ a {
     border-radius: 100%;
 }
 .pure-g img {
-    max-height: 
+    max-height: 500px;
 }
-.pure-u-1-2 a {
+.prev-next{
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 1em;
+    font-family: 'Work sans',sans-serif;
+}
+.prev-next a {
     color: black;
-    padding: 2px;
-    margin-right: 7%;
     
 }
-.pure-u-1-2 a:hover {
-    padding: 2px;
+.prev-next a:hover {
     background: yellow;
 }
-.next {
-    text-align: right;
+.proj img {
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe {
+    margin-right: 35%;
 }
