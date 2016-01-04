@@ -85,3 +85,22 @@ a:hover {
 .proj-img:hover {
 	opacity:0.8;
 }
+.prev {
+    font-size: 1em;
+    font-family: 'Work sans',sans-serif;
+	float:left;
+}
+.prev a {
+    color: black;
+    
+}
+.next {
+    font-size: 1em;
+    font-family: 'Work sans',sans-serif;
+	float:right;
+	
+}
+.next a {
+    color: black;
+    
+}
